@@ -17,7 +17,13 @@ public class Java1 {
         // TODO code application logic here
         System.out.println("Ban dau tien");
         
+     
         System.out.println("Sua lan 1");
+        
+     
+        System.out.println("LAM Sua lan 1");
+        
+        
     }
     
 }
