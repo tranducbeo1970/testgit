@@ -18,6 +18,10 @@ public class Java1 {
         System.out.println("Ban dau tien");
         
         System.out.println("Sua lan 1");
+
+
+        System.out.println("MAin Sua lan 2");
+
     }
     
 }
