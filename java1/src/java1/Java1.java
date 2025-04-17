@@ -19,14 +19,19 @@ public class Java1 {
         
      
         System.out.println("Sua lan 1");
+
         
      
         System.out.println("LAM Sua lan 1");
         
-        System.out.println("LAM Sua lan 2");
         
+       
         
-        
+
+
+        System.out.println("MAin Sua lan 2");
+
+
     }
     
 }
