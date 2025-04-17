@@ -23,6 +23,9 @@ public class Java1 {
      
         System.out.println("LAM Sua lan 1");
         
+        System.out.println("LAM Sua lan 2");
+        
+        
         
     }
     
