@@ -16,21 +16,14 @@ public class Java1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Ban dau tien");
-        
      
         System.out.println("Sua lan 1");
-
-        
      
-        System.out.println("LAM Sua lan 1");
-        
-        
-       
-        
+        System.out.println("Lam Sua lan 3");
 
+        System.out.println("Main Sua lan 2");
 
-        System.out.println("MAin Sua lan 2");
-
+        System.out.println("Lam Sua lan 3");
 
     }
     
